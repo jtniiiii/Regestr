@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Verdana, sans-serif;
   color: #a6a6d8;
@@ -78,4 +82,16 @@ h2 {
 
 .submit {
   grid-column: 2 / 4;
+}
+
+#name {
+  width: 100%;
+}
+
+#breed {
+  width: 100%;
+}
+
+#plase {
+  width: 100%;
 }
